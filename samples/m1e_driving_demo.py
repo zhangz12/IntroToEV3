@@ -18,7 +18,6 @@ Authors: Dave Fisher and PUT_YOUR_NAME_HERE.
 #   Follow along with the lecture to run this program in 2 ways:
 #    - Using SSH from your computer
 #    - Marking the file as an executable and running it via Brickman
-#       ** Ask a TA or your professor for help as needed. **
 # ------------------------------------------------------------------
 
 import ev3dev.ev3 as ev3
