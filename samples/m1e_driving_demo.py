@@ -84,6 +84,7 @@ def shutdown(left_motor, right_motor):
     """Close the program"""
     left_motor.stop(stop_action="coast")
     right_motor.stop(stop_action="coast")
+    print("Goodbye")
     ev3.Sound.speak("Goodbye").wait()
 
 
